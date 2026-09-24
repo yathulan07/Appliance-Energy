@@ -38,11 +38,7 @@ The website contains three sections:
 
 ## GenAI Acknowledgement
 
-Generative AI tools were used during the development of this website.
-
-AI assistance was used to help understand HTML, CSS and JavaScript concepts, generate ideas for website structure and assist with debugging.
-
-All generated code was reviewed, understood and modified to suit the requirements of this project.
+GitHub Copilot was useful during the development of this website because it helped suggest HTML, CSS and JavaScript code and also assisted me with debugging. However, I found that I still needed to understand and review the generated code to make sure it worked correctly and met the task requirements. Through this task, I improved my understanding of how HTML provides the structure of a website, CSS controls its appearance, and JavaScript can be used to create interactive navigation. I also learned how GitHub can be used for version control and how Vercel can deploy a GitHub project as a live website.
 
 ## Reflection
 
